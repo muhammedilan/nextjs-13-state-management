@@ -4,7 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ["i.dummyjson.com"],
+    domains: ["cdn.dummyjson.com"],
   },
   webpack: (config, options) => {
     config.module.rules.push({
