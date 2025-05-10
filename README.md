@@ -1,7 +1,7 @@
 
 # Proje Başlığı
 
-Next.js 13, Redux Toolkit, Redux Thunk ve Tailwind CSS kullanan küçük bir e-ticaret sitesidir.
+Next.js 13, Redux Toolkit, Redux Thunk ve Tailwind CSS kullanan küçük bir responsive e-ticaret sitesidir.
 
 &nbsp;
 ## Kullanılan Teknolojiler
