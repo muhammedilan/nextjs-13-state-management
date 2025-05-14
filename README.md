@@ -24,8 +24,8 @@ https://nextjs-13-state-management-muhammedilan-team.vercel.app
 &nbsp;
 ## Ekran Görüntüleri
 
-![Homepage](https://res.cloudinary.com/dd5hzgg9i/image/upload/v1746872175/nextjs-13-state-management_mbckhr.png)
-![Homepage in Dark Mode](https://res.cloudinary.com/dd5hzgg9i/image/upload/v1746872175/nextjs-13-state-management-dark-mode_c1ma4t.png)
+![Homepage](https://github.com/user-attachments/assets/6a5b1c86-206f-4e82-b618-3be8102f5935)
+![Homepage in Dark Mode](https://github.com/user-attachments/assets/84997b05-4cdf-480f-9d8c-5de6b9ab700a)
 
 &nbsp;
 ## Bilgisayarınızda Çalıştırın
